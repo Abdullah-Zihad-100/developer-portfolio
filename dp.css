@@ -10,6 +10,7 @@ span{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
@@ -53,4 +54,22 @@ background-color: orange;
     right: 8%;
     top: 7%;
     z-index: -10;
+}
+
+.snd{
+width: 50%;
+}
+.snd img{
+    width: 500px;
+}
+.vitto2{
+    width: 200px;
+    height: 200px;
+   background-color: white;
+   border: 80px solid orange;
+   border-radius: 50%;
+   position: relative;
+   left: 550px;
+   top: -270px;
+   z-index: -10;
 }
